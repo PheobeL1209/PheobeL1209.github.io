@@ -4,19 +4,22 @@
 
 ![Placeholder portrait](./img/Placeholder.png)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+[GitHub](https://github.com/PheobeL1209) · [LinkedIn](https://www.linkedin.com/in/phoebe-lawani-908ba921b/)
+
+I'm Pheobe Lawani. I'm a highly adaptive, multi-disciplinary bioinformatician bridging the gap between traditional wet-lab analytical chemistry and advanced dry-lab computational software development. Specialised in building automated data engineering pipelines and machine learning frameworks for complex biological data. Possesses an intense dual-discipline edge that combines deep molecular domain knowledge with rigorous programming skills, allowing for the direct translation of raw laboratory data into scalable digital solutions. An agile problem-solver experienced in managing high-volume, multi-track projects under pressure, demonstrating structured project execution and a mature approach to software engineering.
 
 
 ## Experience 
 
 | Role | Organisation | Dates | Example contribution |
 | --- | --- | --- | --- |
-| Summer Student | QMUL | Summer 2025 | Curated a small biological dataset and documented the workflow. |
-| Science Outreach Volunteer | QMUL | 2022–present | Developed activities introducing genetics to school students. |
+| Analytical Scientist | Eurofins PSS | 2025-present | Method development expericence for novel formualtion platforms|
+| R&D Analytical Assosicate | Reckitt | 2025–2025 | Supported FDA/MHRA quries and additional questions|
+| R&D Stability Assistant | Reckitt | 2023–2025 | Supported the stability testing of 
 
 ## Education 
 
 | Degree | Institution | Dates | 
 | --- | --- | --- |
-| MSc Bioinformatics  | QMUL | 2024–2025 |
-| BSc Biochemistry | University of York | 2020–2024 |
+| MSc Bioinformatics  | Queen Mary University London | 2026–2028 |
+| BSc Biopharmaceutical Science| University of Sunderland | 2018–2022 |

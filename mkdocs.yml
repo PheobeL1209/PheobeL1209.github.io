@@ -1,8 +1,11 @@
-site_name: Personal Portfolio
+site_name: Pheobe Lawani Bioinformatics Portfolio
 
 theme:
   name: material
   language: en
+  palette:
+     primary: teal
+     accent: indigo
   features:
     - content.tooltips
     - navigation.instant
@@ -33,8 +36,9 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Home: 
+  - About Me: 
     - index.md
 
   - Experience:
     -  Unix & Genomics: experience/Unix_and_Genomics.md
+    -  Analyical Science Experience: experience/Analytical_Science_Experience.md
